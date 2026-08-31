@@ -1,21 +1,53 @@
-# 💫 About Me:
-👋 About Me<br><br>I’m a Computer Science student & Android developer who enjoys turning ideas into clean, scalable, production-ready applications.<br>I focus on modern Android development, strong fundamentals, and disciplined execution.<br><br>🚀 Currently working on<br>A real-time chat application using Kotlin, Jetpack Compose, Firebase, and MVVM, with a strong emphasis on architecture and maintainability.<br><br>🤝 Open to collaborating on<br>Android apps, Kotlin-based projects, open-source contributions, and products that value clean code over quick hacks.<br><br>🧠 Looking for help with<br>Advanced DSA, system design for mobile apps, and understanding how real-world Android apps scale.<br><br>🌱 Currently learning<br>Jetpack Compose (advanced UI patterns), DSA in C++, app architecture, and backend fundamentals.<br><br>💬 Ask me about<br>Android development, Kotlin, Jetpack Compose, Firebase, MVVM, or building habits for consistent learning.<br><br>⚡ Fun fact<br>I don’t chase motivation — I build systems that work even when motivation doesn’t.<br><br>🔥 Ultra-polished one-liner (optional, but powerful)<br><br>Building Android apps with the mindset of a software engineer, not a tutorial follower.
+# Hi, I'm Aryan 👋
 
+Android Developer Intern @ Parvesha Innovation | Pre-final year CS student @ JUET | Building with Kotlin & Jetpack Compose
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_only_aryansingh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-singh-883915278) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Aryan2005Singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryansingh16337@gmail.com) 
+📍 Mumbai/Virar, Maharashtra · 🎓 Graduating 2027 · 🔍 Open to Junior/Android Developer roles
 
-# 💻 Tech Stack:
+---
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Room Database](https://img.shields.io/badge/Room%20Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+### 🚀 About Me
+- 💼 Currently building **Zentime**, a digital wellbeing app, at Parvesha Innovation
+- 🧭 Coordinator at IETE Students Forum (ISF)
+- 🛠️ Core stack: **Kotlin · Jetpack Compose · MVVM/Clean Architecture · Firebase · Room DB · Coroutines · Retrofit**
+- 🌐 Also comfortable with: Node.js, Express, MongoDB, FastAPI, Python (pandas, NumPy)
+- 🤖 Certified: **Claude Code in Action** (Anthropic) — credential ID `3pp8yqd4apsu`
+- 🎯 Looking for Android Developer opportunities in Mumbai, Pune, or Bangalore
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aryan005-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aryan005-coder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan005-coder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔨 Featured Projects
+
+**[Where Are You — JUET Campus GPS Tracker](#)**
+Real-time campus GPS tracker with Firebase, Jetpack Compose, and `FusedLocationProviderClient`, using a custom coordinate-mapped campus image.
+`Kotlin` `Jetpack Compose` `Firebase` `Location APIs`
+
+**[Back Note](#)**
+Offline-first reminder app with PIN-lock security.
+`Kotlin` `Room DB` `Offline-first`
+
+**[AI Quiz Generator](#)**
+Quiz generator built on the Gemini API — Hacktron Top 10 Finalist.
+`Kotlin` `Gemini API`
+
+**Open Source**
+Contributed Jetpack Compose UI components, recognized for code quality.
+
+> 🔗 Replace the `#` links above with your actual repo URLs once you drop this in.
+
+---
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readthedocs&logoColor=white)](#)
+
+*(Swap the `#` above with your LinkedIn, email, and hosted resume link)*
+
+---
+
+### 📊 GitHub Stats
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+*(Replace `YOUR_USERNAME` with your actual GitHub username to activate these)*
